@@ -188,6 +188,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://rock-paper-scissors-rps.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Rock-paper-scissors"
         }
         //  you can add extra buttons here.
       ]
@@ -200,6 +204,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://realsnakegame.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Snake"
         }
         //  you can add extra buttons here.
       ]
@@ -212,6 +220,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://magic-8-ball-puce.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Magic-8-Ball"
         }
         //  you can add extra buttons here.
       ]
@@ -224,6 +236,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://soundboard-one.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Soundboard"
         }
         //  you can add extra buttons here.
       ]
@@ -236,6 +252,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://zuko-website-redesign.vercel.app/backstory.html"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/zuko-website-redesign"
         }
         //  you can add extra buttons here.
       ]
@@ -247,7 +267,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://tranquil-gardens.vercel.app/shop.html"
+          url: "https://tranquil-gardens.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Tranquil_Gardens"
         }
         //  you can add extra buttons here.
       ]
@@ -260,6 +284,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://color-picker-lemon.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Color_picker"
         }
         //  you can add extra buttons here.
       ]
@@ -272,6 +300,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://aim-trainer-two.vercel.app/"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Rock-paper-scissors"
         }
         //  you can add extra buttons here.
       ]
@@ -284,6 +316,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://dire-dire-dining.vercel.app/Directions.html"
+        },
+        {
+          name: "Visit Github",
+          url: "https://github.com/hellothisisme123/Rock-paper-scissors"
         }
         //  you can add extra buttons here.
       ]
