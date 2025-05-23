@@ -251,7 +251,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://zuko-website-redesign.vercel.app/backstory.html"
+          url: "https://zuko-website-redesign.vercel.app"
         },
         {
           name: "Visit Github",
@@ -315,7 +315,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://dire-dire-dining.vercel.app/Directions.html"
+          url: "https://dire-dire-dining.vercel.app"
         },
         {
           name: "Visit Github",
